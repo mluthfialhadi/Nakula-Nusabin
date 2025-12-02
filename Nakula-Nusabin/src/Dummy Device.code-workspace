@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "E:/Kerja/Taharica/Thingsboard/Dummy Device"
+		},
+		{
+			"name": "Dummy_Device_Thingsboard",
+			"path": "E:/Kerja/Taharica/Thingsboard/Dummy Device/Dummy_Device_Thingsboard"
+		},
+		{
+			"name": "Datalogger_RS485",
+			"path": "E:/Kerja/Taharica/Datalogger/Datalogger_RS485"
+		},
+		{
+			"name": "Nakula-Nusabin",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
